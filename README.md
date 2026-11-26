@@ -30,6 +30,3 @@ I'm an Informatics Engineering graduate from Universitas Pamulang with a passion
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevintri11/kevintri11/main/acrade-contributions.svg">
   <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/kevintri11/kevintri11/main/acrade-contributions.svg">
 </picture>
-
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
