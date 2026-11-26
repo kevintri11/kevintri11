@@ -1,4 +1,3 @@
-# 💫 About Me:
 # 👋 Hi, I'm Kevin Tri Anggoro<br><br>## 💫 About Me<br><br>I'm an Informatics Engineering graduate from Universitas Pamulang with a passion for Fullstack Development and building modern, responsive, and user-friendly web applications.<br><br>- 💻 Focused on Fullstack Web Development.<br>- 🚀 Currently building PaduPOS, a Point of Sale & Inventory Management System.<br>- 🌱 Continuously improving my skills in Laravel, React.js, and Inertia.js.<br>- 🛠️ Hands-on experience with PHP, JavaScript, and MySQL.<br>- 🎯 Passionate about clean code, problem-solving, and continuous learning.<br>- 🤝 Open to job opportunities and project collaborations.<br>- 🌐 Portfolio: https://kevintrianggoro-porto.vercel.app/
 
 
