@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Tri Anggoro</h1>
-<h3 align="center">Fullstack Web Developer | Laravel Enthusiast from Indonesia 🇮🇩</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryadwiputra&label=Profile%20views&color=0e75b6&style=flat-square" alt="aryadwiputra" />
-</p>
+<h3 align="center">Fullstack Developer | Laravel, React.js | IT Support</h3>
 
 ---
 
