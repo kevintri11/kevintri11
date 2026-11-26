@@ -24,4 +24,12 @@ I'm an Informatics Engineering graduate from Universitas Pamulang with a passion
 ![](https://streak-stats.demolab.com/?user=kevintri11&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=kevintri11&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🎮 Contribution Graph
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevintri11/kevintri11/output/[game-name]-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevintri11/kevintri11/output/[game-name]-contribution-graph.svg">
+  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/kevintri11/kevintri11/output/[game-name]-contribution-graph.svg">
+</picture>
+
+_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
