@@ -1,5 +1,22 @@
-# 👋 Hi, I'm Kevin Tri Anggoro<br><br>## 💫 About Me<br><br>I'm an Informatics Engineering graduate from Universitas Pamulang with a passion for Fullstack Development and building modern, responsive, and user-friendly web applications.<br><br>- 💻 Focused on Fullstack Web Development.<br>- 🚀 Currently building PaduPOS, a Point of Sale & Inventory Management System.<br>- 🌱 Continuously improving my skills in Laravel, React.js, and Inertia.js.<br>- 🛠️ Hands-on experience with PHP, JavaScript, and MySQL.<br>- 🎯 Passionate about clean code, problem-solving, and continuous learning.<br>- 🤝 Open to job opportunities and project collaborations.<br>- 🌐 Portfolio: https://kevintrianggoro-porto.vercel.app/
+<h1 align="center">Hi 👋, I'm Kevin Tri Anggoro</h1>
+<h3 align="center">Fullstack Web Developer | Laravel Enthusiast from Indonesia 🇮🇩</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aryadwiputra&label=Profile%20views&color=0e75b6&style=flat-square" alt="aryadwiputra" />
+</p>
+
+---
+
+### 🚀 About Me
+I'm an Informatics Engineering graduate from Universitas Pamulang with a passion for Fullstack Development and building modern, responsive, and user-friendly web applications.
+
+- 💻 Focused on Fullstack Web Development.
+- 🚀 Currently building PaduPOS, a Point of Sale & Inventory Management System.
+- 🌱 Continuously improving my skills in Laravel, React.js, and Inertia.js.
+- 🛠️ Hands-on experience with PHP, JavaScript, and MySQL
+- 🎯 Passionate about clean code, problem-solving, and continuous learning.
+- 📫 **Contact:** [kevintrianggoro324@gmail.com](mailto:kevintrianggoro324@gmail.com)
+- 🌐 [Personal Website](https://kevintrianggoro-porto.vercel.app)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kevtri_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevintria) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevintrianggoro324@gmail.com) 
