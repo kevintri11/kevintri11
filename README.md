@@ -26,9 +26,9 @@ I'm an Informatics Engineering graduate from Universitas Pamulang with a passion
 
 ## 🎮 Contribution Graph
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevintri11/kevintri11/output/[game-name]-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevintri11/kevintri11/output/[game-name]-contribution-graph.svg">
-  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/kevintri11/kevintri11/output/[game-name]-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kevintri11/kevintri11/output/acrade-contributions.svg.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kevintri11/kevintri11/output/acrade-contributions.svg">
+  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/kevintri11/kevintri11/output/acrade-contributions.svg">
 </picture>
 
 _generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
